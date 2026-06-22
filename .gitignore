@@ -76,3 +76,5 @@ DerivedDataCache/*
 
 # My Ignores
 Content/_ExternalAssets/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
